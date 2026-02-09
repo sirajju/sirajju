@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sirajju.github.io/portfolio](https://sirajju.github.io/portfolio)
 
-- 📫 How to reach me **sirusiraju2aa@gmail.com**
+- 📫 How to reach me **sirajju.dev@gmail.com**
 
 - ⚡ Fun fact **I think am funny**
 
