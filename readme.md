@@ -4,7 +4,7 @@
 # 💫 About Me:
 I’m a MERN Stack Developer who loves turning product ideas into reliable, scalable web applications. I’ve worked on real-world SaaS platforms used by thousands of users and enjoy solving performance, scalability, and system design challenges. Always curious about better architectures, cleaner code, and smoother user experiences
 
-- 👨‍💻 Portfolio : [https://sirajju.github.io/portfolio](https://sirajju.github.io/portfolio)
+- 👨‍💻 Portfolio : [https://sirajudheen.dev](https://sirajudheen.dev)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sirajj_u_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sirajju) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sirajudheen.dev@gmail.com) 
