@@ -16,8 +16,6 @@ I’m a MERN Stack Developer who loves turning product ideas into reliable, scal
 ![](https://nirzak-streak-stats.vercel.app/?user=sirajju&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sirajju&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 ![](https://streak-stats.demolab.com/?user=sirajju&theme=dark&hide_border=false)<br/>
-
----
 [![](https://visitcount.itsvg.in/api?id=sirajju&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
